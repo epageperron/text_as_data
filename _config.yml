@@ -1,0 +1,15 @@
+# Welcome to Jekyll!
+#
+
+# Site settings
+title: "Text as Data: Digital Humanities for Text Analysis"
+description: >
+  A two sessions panel at the American Oriental Society Meeting, March 17-20 2017, Los Angeles
+first_published: 2017 # if migrating another site, the year of your first publish
+email: epageperron@gmail.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+# Build settings
+markdown: kramdown
+#sass:
+#  style: compressed
