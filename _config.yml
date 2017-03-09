@@ -4,7 +4,7 @@
 # Site settings
 title: "Text as Data: Digital Humanities for Text Analysis"
 description: >
-  A two sessions panel at the American Oriental Society Meeting, March 17-20 2017, Los Angeles
+  A two sessions panel at the American Oriental Society Meeting, March 17-20 2017, Los&nbsp;Angeles
 first_published: 2017 # if migrating another site, the year of your first publish
 email: epageperron@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
